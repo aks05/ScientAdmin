@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338038045814",
+    "firebase_url": "https://scientapp.firebaseio.com",
+    "project_id": "scientapp",
+    "storage_bucket": "scientapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338038045814:android:210be96e0c7c18ec",
+        "android_client_info": {
+          "package_name": "com.example.scientadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338038045814-mvveibhu31pd9foetedunvecqu9mujlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scientadmin",
+            "certificate_hash": "5e78e5aa7e4ce3e9b60bf91bb16972a5b0c83bfa"
+          }
+        },
+        {
+          "client_id": "338038045814-pm2qir91c9pg13hdb6bv9smnaikp6o7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNaseaIEsQylMCh3Xs0NkUj7RKmc45eWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338038045814-pm2qir91c9pg13hdb6bv9smnaikp6o7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
